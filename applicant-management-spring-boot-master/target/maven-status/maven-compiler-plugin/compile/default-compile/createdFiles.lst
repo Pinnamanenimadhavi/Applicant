@@ -1,0 +1,8 @@
+com\madhavi\springboot\applicantmanagement\repository\ApplicantRepository.class
+com\madhavi\springboot\applicantmanagement\service\ApplicantServiceImpl.class
+com\madhavi\springboot\applicantmanagement\controller\ApplicantController.class
+com\madhavi\springboot\applicantmanagement\model\Todo.class
+com\madhavi\springboot\applicantmanagement\controller\ErrorController.class
+com\madhavi\springboot\applicantmanagement\service\ApplicantService.class
+com\madhavi\springboot\applicantmanagement\model\Applicant.class
+com\madhavi\springboot\applicantmanagement\ApplicantManagementSpringBootApplication.class
